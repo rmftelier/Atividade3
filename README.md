@@ -7,17 +7,18 @@ Programa que consome a API externa do ExchangeRate-API e exibe as informações 
 
 ### 1. Conversão de USD para BRL:
 <p align="center">
-  
+   <img src="images/1.PNG" alt="Imagem 1" width="650px">
 </p>
 
 ### 2. Conversão de USD para EUR:
 <p align="center">
+   <img src="images/2.PNG" alt="Imagem 2" width="650px">
 </p>
 
 
 ### 3. Conversão de USD para JPY:
 <p align="center">
-  
+   <img src="images/3.PNG" alt="Imagem 1" width="650px">
 </p>
 
 

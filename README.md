@@ -7,6 +7,7 @@ Programa que consome a API externa do ExchangeRate-API e exibe as informações 
 
 ### 1. Conversão de USD para BRL:
 <p align="center">
+  
 </p>
 
 ### 2. Conversão de USD para EUR:
